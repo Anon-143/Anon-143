@@ -11,13 +11,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anon-143&theme=moonlight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anon-143&theme=moonlight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anon-143&theme=moonlight&utcOffset=8)
-
-![](https://github-readme-stats.vercel.app/api?username=Anon-143&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anon-143&theme=moonlight)
+![](https://github-readme-stats.vercel.app/api?username=Anon-143&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-
-<br>
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Anon-143&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
